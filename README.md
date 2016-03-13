@@ -12,12 +12,12 @@
 
 
 ## Finance
-The Little Book That Beats the Market
+- The Little Book That Beats the Market
 Understanding Options
 
 ## Design
-Adobe Photoshop CS5 on Demand
-~Adobe Flash Catalyst Cs5 Classroom in a Book~
+- Adobe Photoshop CS5 on Demand
+~~Adobe Flash Catalyst Cs5 Classroom in a Book~~
 
 ## HTML/CSS
 - Introducing HTML5
@@ -25,4 +25,4 @@ Adobe Photoshop CS5 on Demand
 - Creating a Web Site: The Missing Manual: The Missing Manual
 
 ## Database
-Beginning Database Design: From Novice to Professional
+- Beginning Database Design: From Novice to Professional
