@@ -1,7 +1,7 @@
 # Books
-###List Of Book Recommendations
+### Personal Reading List
 
-**Read On:** [Juvoni.com](http://www.juvoni.com/books)
+**Read On:** [juvoni.com](http://www.juvoni.com/books)
 
 ## Table of Contents
 
