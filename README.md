@@ -5,24 +5,24 @@
 
 ## Table of Contents
 
-* [Business](#Business)
-* [Communication](#Communication)
-* [Economics](#Economics)
-* [Finance](#Finance)
-* [Science](#Science)
-* [History](#History)
-* [Writing](#Writing)
-* [Philosophy](#Philosophy)
-* [Psychology](#Psychology)
-* [Sociology](#Sociology)
-* [Self Help](#Self Help)
-* [Spirituality](#Spirituality)
-* [Design](#Design)
-* [Interviewing](#Interviewing)
-* [Technology]
-* [HTML/CSS](#HTML/CSS)
-* [Javascript](#Javascript)
-* [Database](#Database)
+* [Business](#business)
+* [Communication](#communication)
+* [Economics](#economics)
+* [Finance](#finance)
+* [Science](#science)
+* [History](#history)
+* [Writing](#writing)
+* [Philosophy](#philosophy)
+* [Psychology](#psychology)
+* [Sociology](#sociology)
+* [Self Help](#self-help)
+* [Spirituality](#spirituality)
+* [Design](#design)
+* [Interviewing](#interviewing)
+* [Technology](#technology)
+* [HTML/CSS](#htmlcss)
+* [Javascript](#javascript)
+* [Database](#database)
 
 
 # Business
