@@ -5,6 +5,7 @@
 
 ## Table of Contents
 
+* [Fiction](#fiction)
 * [Business](#business)
 * [Communication](#communication)
 * [Economics](#economics)
@@ -12,9 +13,11 @@
 * [Science](#science)
 * [History](#history)
 * [Writing](#writing)
+* [Poetry](#poetry)
 * [Philosophy](#philosophy)
 * [Psychology](#psychology)
 * [Sociology](#sociology)
+* [Education](#education)
 * [Self Help](#self-help)
 * [Spirituality](#spirituality)
 * [Design](#design)
@@ -25,7 +28,10 @@
 * [Database](#database)
 
 
-# Business
+## Fiction
+- The Fault in Our Stars
+
+## Business
 - The Myths of Innovation
 - The Innovator's Dilemma: The Revolutionary Book that Will Change the Way You Do Business (Collins Business Essentials)
 - Six Thinking Hats
@@ -40,11 +46,25 @@
 - Made to Stick: Why Some Ideas Survive and Others Die
 - Clark Howard's Living Large in Lean Times: 250+ Ways to Buy Smarter, Spend - Smarter, and Save Money
 - The Checklist Manifesto: How to Get Things Right
+- Why Smart People Make Big Money Mistakes and How to Correct Them: Lessons from the Life-Changing Science of Behavioral Economics
+- To Sell Is Human: The Surprising Truth About Moving Others
+- Maximize Your Potential: Grow Your Expertise, Take Bold Risks & Build an - Incredible Career
+- The Personal MBA: Master the Art of Business
+- Zero to One: Notes on Startups, or How to Build the Future
+- The 80/20 Principle and 92 Other Power Laws of Nature: The Science of Success
+- Smart Customers, Stupid Companies: Why Only Intelligent Companies Will Thrive, and How To Be One of Them
 
-# Communication
+# Management & Leadership
+- Great by Choice: Uncertainty, Chaos, and Luck--Why Some Thrive Despite Them All
+
+## Marketing
+- Influence: The Psychology of Persuasion
+- Growth Hacker Marketing: A Primer on the Future of PR, Marketing, and - Advertising
+
+## Communication
 - Confessions of a Public Speaker
 
-# Economics
+## Economics
 - The End of Influence: What Happens When Other Countries Have the Money
 - The Black Swan: The Impact of the Highly Improbable
 - Intellectuals and Society
@@ -55,22 +75,39 @@
 - Aftershock: The Next Economy and America's Future
 - The Lights in the Tunnel: Automation, Accelerating Technology and the Economy of the Future
 - Scarcity: Why Having Too Little Means So Much
+- Currency Wars: The Making of the Next Global Crisis
 
 ## Finance
 - The Little Book That Beats the Market
 - Understanding Options
 - The Little Book of Common Sense Investing: The Only Way to Guarantee Your Fair - Share of Stock Market Returns
+- F Wall Street: Joe Ponzio's No-Nonsense Approach to Value Investing for the Rest of Us
+- The Intelligent Investor (Collins Business Essentials)
+- What I Learned Losing A Million Dollars
 
 ## Science
 - 13 Things That Don't Make Sense: The Most Baffling Scientific Mysteries of Our Time
 - Linked: How Everything Is Connected to Everything Else and What It Means for Business, Science, and Everyday Life
 - Perfectly Reasonable Deviations from the Beaten Track: Letters of Richard P. Feynman
+- Thinking in Systems: A Primer
+- The Blank Slate: The Modern Denial of Human Nature
+- Unwritten Laws of Engineering: Revised and Updated Edition
+- The Clockwork Universe: Isaac Newton, the Royal Society, and the Birth of the Modern World
+- What Einstein Told His Cook: Kitchen Science Explained
 
 ## Health & Nutrition
 - In Defense of Food: An Eater's Manifesto
+- Nutrient Timing: The Future of Sports Nutrition
+- The China Study: The Most Comprehensive Study of Nutrition Ever Conducted And the Startling Implications for Diet, Weight Loss, And Long-term Health
 
 ## History
 - A Short History of Nearly Everything
+- The Worst Hard Time: The Untold Story of Those Who Survived the Great American Dust Bowl
+
+## Biography & Memoirs
+- Moonwalking with Einstein: The Art and Science of Remembering Everything
+- The Art of Learning: An Inner Journey to Optimal Performance
+- Man's Search for Meaning
 
 ## Writing
 - Sticky Readers: How to Attract a Loyal Blog Audience by Writing More Better
@@ -78,10 +115,16 @@
 - Writing Tools: 50 Essential Strategies for Every Writer
 - 2k to 10k: Writing Faster, Writing Better, and Writing More of What You Love
 - On Writing Well: The Classic Guide to Writing Nonfiction
+- Daily Rituals: How Artists Work
+- How to Read a Book: The Classic Guide to Intelligent Reading
+
+## Poetry
+- No Matter the Wreckage
 
 ## Philopshy
 - To Have or to Be?
 - The Art of War
+- The Obstacle Is the Way: The Timeless Art of Turning Trials into Triumph
 
 ## Pyschology
 - Emotional Intelligence: Why It Can Matter More Than IQ
@@ -89,16 +132,34 @@
 - Addiction: A Disorder Of Choice
 - Wait: The Art and Science of Delay
 - David and Goliath
+- Mindwise: Why We Misunderstand What Others Think, Believe, Feel, and Want
+- Mistakes Were Made (But Not by Me): Why We Justify Foolish Beliefs, Bad Decisions, and Hurtful Acts
+- The Willpower Instinct: How Self-Control Works, Why It Matters, and What You Can Do to Get More of It
+- The 50th Law
+- The Little Book of Talent: 52 Tips for Improving Your Skills
+- Focus: The Hidden Driver of Excellence
+- The 5 Elements of Effective Thinking
+- Essentialism: The Disciplined Pursuit of Less
 
 ## Sociology
 - When Work Disappears: The World of the New Urban Poor
 
+## Education
+- The Seven Laws of Learning: Why Great Leaders Are Also Great Teachers
+- The Higher Education Bubble
+
 ## Self Help
 - How To Win Friends and Influence People
 - Personal Development for Smart People: The Conscious Pursuit of Personal Growth
+- One Small Step Can Change Your Life: The Kaizen Way
+- The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change
+- So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love
+- 10 Natural Laws of Successful Time and Life Management
 
 ## Spirituality
 - The Power of Now: A Guide to Spiritual Enlightenment
+- The Journey Into Yourself
+- Zen in the Art of Archery
 
 ## Design
 - Don't Make Me Think: A Common Sense Approach to Web Usability
@@ -117,6 +178,8 @@
 - The Mythical Man-Month: Essays on Software Engineering
 - Who Owns the Future?
 - Pragmatic Thinking and Learning
+- Social Engineering: The Art of Human Hacking
+- Effective Programming: More Than Writing Code
 
 ## HTML/CSS
 - Introducing HTML5
