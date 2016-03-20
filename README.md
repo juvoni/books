@@ -10,7 +10,9 @@
 * [Communication](#communication)
 * [Economics](#economics)
 * [Finance](#finance)
+* [Statistics](#statistics)
 * [Science](#science)
+* [Health & Nutrition](#health-nutrition)
 * [History](#history)
 * [Writing](#writing)
 * [Poetry](#poetry)
@@ -18,15 +20,17 @@
 * [Psychology](#psychology)
 * [Sociology](#sociology)
 * [Education](#education)
+* [Language Learning](#language-learning)
 * [Self Help](#self-help)
 * [Spirituality](#spirituality)
 * [Design](#design)
 * [Interviewing](#interviewing)
 * [Technology](#technology)
+* [Algorithms](#algorithms)
 * [HTML/CSS](#htmlcss)
 * [Javascript](#javascript)
 * [Database](#database)
-
+* [Data Science](#data-science)
 
 ## Fiction
 - The Fault in Our Stars
@@ -55,6 +59,16 @@
 - **Zero to One: Notes on Startups, or How to Build the Future**
 - The 80/20 Principle and 92 Other Power Laws of Nature: The Science of Success
 - Smart Customers, Stupid Companies: Why Only Intelligent Companies Will Thrive, and How To Be One of Them
+- Antifragile: Things That Gain from Disorder
+- Seeking Wisdom: From Darwin To Munger
+- The Start-Up of You: Adapt to the Future, Invest in Yourself, and Transform Your Career
+- Managing Oneself
+- Poorly Made in China: An Insider's Account of the Tactics Behind China's Production Game
+- Peopleware: Productive Projects and Teams
+- How to Fail at Almost Everything and Still Win Big : Kind of the Story of My Life
+- Little Bets: How Breakthrough Ideas Emerge from Small Discoveries
+- Extreme Ownership: How U.S. Navy SEALs Lead and Win
+- Never Eat Alone: And Other Secrets to Success, One Relationship at a Time
 
 [ [back to top] ](#table-of-contents)
 
@@ -71,6 +85,9 @@
 
 ## Communication
 - Confessions of a Public Speaker
+- Nonviolent Communication: A Language of Life, 3rd Edition: Life-Changing Tools for Healthy Relationships
+- Resonate: Present Visual Stories that Transform Audiences
+- Slide: ology: The Art and Science of Creating Great Presentations
 
 [ [back to top] ](#table-of-contents)
 
@@ -86,6 +103,7 @@
 - The Lights in the Tunnel: Automation, Accelerating Technology and the Economy of the Future
 - **Scarcity: Why Having Too Little Means So Much**
 - Currency Wars: The Making of the Next Global Crisis
+- The Creature from Jekyll Island: A Second Look at the Federal Reserve
 
 [ [back to top] ](#table-of-contents)
 
@@ -96,6 +114,12 @@
 - **F Wall Street: Joe Ponzio's No-Nonsense Approach to Value Investing for the Rest of Us**
 - **The Intelligent Investor**
 - What I Learned Losing A Million Dollars
+- Common Stocks and Uncommon Profits and Other Writings
+
+[ [back to top] ](#table-of-contents)
+
+## Statistics
+- The Signal and the Noise: Why So Many Predictions Fail - But Some Don't
 
 [ [back to top] ](#table-of-contents)
 
@@ -108,6 +132,7 @@
 - Unwritten Laws of Engineering: Revised and Updated Edition
 - The Clockwork Universe: Isaac Newton, the Royal Society, and the Birth of the Modern World
 - What Einstein Told His Cook: Kitchen Science Explained
+- The Story of the Human Body: Evolution, Health, and Disease
 
 [ [back to top] ](#table-of-contents)
 
@@ -115,12 +140,15 @@
 - In Defense of Food: An Eater's Manifesto
 - **Nutrient Timing: The Future of Sports Nutrition**
 - The China Study: The Most Comprehensive Study of Nutrition Ever Conducted And the Startling Implications for Diet, Weight Loss, And Long-term Health
+- Food Rules: An Eater's Manual
 
 [ [back to top] ](#table-of-contents)
 
 ## History
 - **A Short History of Nearly Everything**
 - The Worst Hard Time: The Untold Story of Those Who Survived the Great American Dust Bowl
+- The Lessons of History
+- Why Don't We Learn from History?
 
 [ [back to top] ](#table-of-contents)
 
@@ -128,6 +156,12 @@
 - Moonwalking with Einstein: The Art and Science of Remembering Everything
 - **The Art of Learning: An Inner Journey to Optimal Performance**
 - **Man's Search for Meaning**
+- Between the World and Me
+- The Snowball: Warren Buffett and the Business of Life
+- Unbroken: A World War II Story of Survival, Resilience, and Redemption
+- Benjamin Franklin: An American Life
+- Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future
+- Steve Jobs
 
 [ [back to top] ](#table-of-contents)
 
@@ -151,6 +185,13 @@
 - To Have or to Be?
 - The Art of War
 - The Obstacle Is the Way: The Timeless Art of Turning Trials into Triumph
+- A Guide to the Good Life: The Ancient Art of Stoic Joy
+- On the Shortness of Life
+- The Moral Sayings of Publius Syrus, a Roman Slave: From the Latin (1856)
+- Letters from a Stoic
+- Meditations
+- The Way of Zen
+- The Wisdom of Insecurity: A Message for an Age of Anxiety
 
 [ [back to top] ](#table-of-contents)
 
@@ -168,6 +209,17 @@
 - Focus: The Hidden Driver of Excellence
 - The 5 Elements of Effective Thinking
 - **Essentialism: The Disciplined Pursuit of Less**
+- Quiet: The Power of Introverts in a World That Can't Stop Talking
+- Practicing Mindfulness: An Introduction to Meditation
+- Decisive: How to Make Better Choices in Life and Work
+- The Inner Game of Tennis: The Classic Guide to the Mental Side of Peak Performance
+- The Practicing Mind: Developing Focus and Discipline in Your Life
+- The Time Paradox: The New Psychology of Time That Will Change Your Life
+- Mindset: The New Psychology of Success
+- The Ego Tunnel: The Science of the Mind and the Myth of the Self
+- The Power of Habit: Why We Do What We Do in Life and Business
+- Willpower: Rediscovering the Greatest Human Strength
+- The Paradox of Choice: Why More Is Less
 
 [ [back to top] ](#table-of-contents)
 
@@ -179,6 +231,12 @@
 ## Education
 - The Seven Laws of Learning: Why Great Leaders Are Also Great Teachers
 - The Higher Education Bubble
+- A Mind for Numbers: How to Excel at Math and Science (Even If You Flunked Algebra)
+
+[ [back to top] ](#table-of-contents)
+
+## Language Learning
+- Fluent Forever: How to Learn Any Language Fast and Never Forget It
 
 [ [back to top] ](#table-of-contents)
 
@@ -189,6 +247,8 @@
 - **The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change**
 - **So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love**
 - 10 Natural Laws of Successful Time and Life Management
+- The One Thing: The Surprisingly Simple Truth Behind Extraordinary Results
+- The Power of Full Engagement: Managing Energy, Not Time, Is the Key to High Performance and Personal Renewal
 
 [ [back to top] ](#table-of-contents)
 
@@ -206,14 +266,19 @@
 - **Logo Design Love: A Guide to Creating Iconic Brand Identities**
 - Getting Started with Processing
 - 100 Things Every Designer Needs to Know About People (Voices That Matter)
+- Digital Design Essentials: 100 ways to design better desktop, web, and mobile interfaces
+- Interdisciplinary Interaction Design: A Visual Guide to Basic Theories, Models and Ideas for Thinking and Designing for Interactive Web Design and Digital Device Experiences
 - ~~Adobe Flash Catalyst Cs5 Classroom in a Book~~
 
 [ [back to top] ](#table-of-contents)
 
 ## Interviewing
 - The Google Resume: How to Prepare for a Career and Land a Job at Apple, Microsoft, Google, or any Top Tech Company
+- Cracking the Coding Interview: 150 Programming Questions and Solutions
 
 [ [back to top] ](#table-of-contents)
+
+
 
 ## Technology
 - The Pragmatic Programmer: From Journeyman to Master
@@ -222,6 +287,16 @@
 - **Pragmatic Thinking and Learning**
 - Social Engineering: The Art of Human Hacking
 - Effective Programming: More Than Writing Code
+- Ship It!
+- High Performance Web Sites
+- Even Faster Web Sites
+- APIs: A Strategy Guide
+- User Story Mapping: Discover the Whole Story, Build the Right Product
+
+[ [back to top] ](#table-of-contents)
+
+## Algorithms
+- Data Structures and Algorithms in Java
 
 [ [back to top] ](#table-of-contents)
 
@@ -241,6 +316,9 @@
 - Node.js in Action
 - jQuery in Action
 - The Node Beginner Book
+- Programming JavaScript Applications: Robust Web Architecture With Node, HTML5, and Modern JS Libraries
+- Testable JavaScript
+- ng-book - The Complete Book on AngularJS
 
 [ [back to top] ](#table-of-contents)
 
@@ -251,6 +329,11 @@
 
 ## Database
 - Beginning Database Design: From Novice to Professional
+
+[ [back to top] ](#table-of-contents)
+
+## Data Science 
+- R Programming for Data Science
 
 [ [back to top] ](#table-of-contents)
 
