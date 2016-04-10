@@ -195,7 +195,7 @@
 
 [ [back to top] ](#table-of-contents)
 
-## Pyschology
+## Psychology
 - **Emotional Intelligence: Why It Can Matter More Than IQ**
 - The Shallows: What the Internet is Doing to Our Brains
 - Addiction: A Disorder Of Choice
