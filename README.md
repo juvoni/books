@@ -3,6 +3,10 @@
 
 **Read On:** [juvoni.com](http://www.juvoni.com/books)
 
+**Bold <Titles>** represent books that really stood out to me.
+
+*Reading List Up*: **Dec 2015** 
+
 ## Table of Contents
 
 * [Fiction](#fiction)
